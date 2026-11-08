@@ -57,6 +57,9 @@ Results from the random train-test split:
 |---|---:|---:|
 | Logistic Regression | 66.78% | 68.06% |
 | Random Forest | 72.92% | 73.58% |
+### Model Performance Comparison
+
+![Model Comparison](model_comparison.png)
 
 An additional experiment trained the models on data from 2014–2017 and tested them on 2018 data.
 
