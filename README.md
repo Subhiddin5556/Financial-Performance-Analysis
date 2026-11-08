@@ -31,6 +31,9 @@ The analysis includes:
 - Stock return class distribution.
 - Class distribution by sector.
 - Correlation analysis.
+ ### EDA Dashboard
+
+ ![EDA Dashboard](eda_dashboard.png)
 
 ## 5. Machine Learning
 
