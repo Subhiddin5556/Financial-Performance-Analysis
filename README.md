@@ -35,7 +35,29 @@ The analysis includes:
 
  ![EDA Dashboard](eda_dashboard.png)
 
-## 5. Conclusion
+ ## 5. Machine Learning
+
+Two machine learning models were developed to classify companies based on their financial indicators:
+
+- Logistic Regression
+- Random Forest Classifier
+
+The dataset was divided into training and testing sets. Missing values were handled using imputation, numerical features were scaled, and categorical features were encoded.
+
+## 6. Model Evaluation
+
+The models were evaluated using Accuracy, Precision, Recall, and F1-score.
+
+| Model | Accuracy | Weighted F1 |
+|---|---:|---:|
+| Logistic Regression | 66.78% | 68.06% |
+| Random Forest | 72.92% | 73.58% |
+
+The Random Forest model achieved better results than Logistic Regression on the test set.
+
+However, its accuracy was only slightly higher than the majority-class baseline of 69.40%.
+
+## 7. Conclusion
 
 This project helped me practice data analysis and data visualization.
 
