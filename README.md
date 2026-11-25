@@ -52,7 +52,7 @@ The models were evaluated using Accuracy, Precision, Recall, and F1-score.
 |---|---:|---:|
 | Logistic Regression | 66.78% | 68.06% |
 | Random Forest | 72.92% | 73.58% |
-
+![Model Comparison](model_comparison.png)
 The Random Forest model achieved better results than Logistic Regression on the test set.
 
 However, its accuracy was only slightly higher than the majority-class baseline of 69.40%.
