@@ -35,7 +35,7 @@ The analysis includes:
 
  ![EDA Dashboard](eda_dashboard.png)
 
-## 7. Conclusion
+## 5. Conclusion
 
 This project helped me practice data analysis and data visualization.
 
